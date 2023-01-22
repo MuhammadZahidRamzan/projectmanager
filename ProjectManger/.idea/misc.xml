@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/dimen.xml" value="0.1305" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/ic_back_white.xml" value="0.1305" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1305" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/ic_stat_ic_notificaion.xml" value="0.136" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/ic_vector_color_accent_done_24dp.xml" value="0.136" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/nav_header_main_background.xml" value="0.1305" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/shape_button_round.xml" value="0.1305" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/shape_dialog_rounded.xml" value="0.194" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/drawable/white_border_shape_button_rounded.xml" value="0.1305" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout-v23/activity_card_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout-v23/activity_intro.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_base.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_card_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_create_board.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_intro.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_members.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_my_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/activity_task_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/dialog_progess.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/dialog_search_member.xml" value="0.16" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/diolog_list.xml" value="0.16" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/item_board.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/item_card.xml" value="0.3681640625" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/item_card_selected_member.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/item_label_color.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/item_member.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/item_task.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/main_content.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/menu/menu_add_member.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/menu/menu_delete_member.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ProjectManager/app/src/main/res/menu/menu_members.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
